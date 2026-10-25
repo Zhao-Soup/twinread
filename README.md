@@ -1,6 +1,6 @@
 # Margin
 
-Margin is a private, multi-page notebook for prose, snippets, and code. It keeps edits synchronized between open tabs and devices and protects every notebook with Netlify Identity.
+Margin is a private, multi-page notebook for prose, snippets, and code. It saves edits automatically and protects every notebook with Netlify Identity. Press Update to fetch saved changes from other tabs and devices. Pages load once when the notebook opens; there is no background polling. The Update button is disabled while local edits are being saved, and edits made during an update request are preserved.
 
 ## Technology
 
